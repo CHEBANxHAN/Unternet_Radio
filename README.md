@@ -2,3 +2,5 @@
 Internet_Radio
 Thank you for idea: https://www.youtube.com/watch?v=RP2JaMdLs2A&t=17s
 https://github.com/solkogan/online-radio
+
+What to use this program, download the VLC player
